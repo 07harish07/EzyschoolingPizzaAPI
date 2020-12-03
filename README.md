@@ -98,5 +98,5 @@ PUT http://127.0.0.1:8000/pizza/update/1
 ## Remove an pizza
 
 ```
-DELETE http://127.0.0.1:8000/api/v1/orders/1/
+DELETE http://127.0.0.1:8000/pizza/delete/1
 ```
